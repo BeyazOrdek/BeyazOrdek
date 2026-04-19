@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm BeyazOrdek 👋
 
-<!--
-**BeyazOrdek/BeyazOrdek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software & Plugin Developer
+I am a passionate developer focused on building functional applications and creating custom gaming extensions. I enjoy solving complex logic-based problems and developing user-centric software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Stack
+
+* **Desktop & Mobile:** * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **C# (WinForms)** - Developing management systems and utility tools.
+    * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java (Android Studio)** - Building mobile-based applications and UI logic.
+* **Game Development:**
+    * ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) **Lua & Rojo** - Scripting advanced game mechanics in Roblox Studio.
+    * ![Minecraft](https://img.shields.io/badge/Minecraft-62B449?style=for-the-badge&logo=minecraft&logoColor=white) **Plugin Development** - Creating custom server-side features using **Skript**.
+
+---
+
+### 🚀 What I'm Working On
+
+- 🛠️ **System Remakes:** Analyzing existing software structures and rebuilding them with improved logic (e.g., MHRS Remake).
+- 🎮 **Game Logic:** Developing efficient systems for in-game economies, pet mechanics, and database-linked forms.
+- 🎨 **UI/UX Design:** Crafting modern, responsive, and intuitive interfaces for Windows and Android.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beyazordek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyazordek&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📬 Connect with me
+- **Discord:** `beyaz_ordek`
