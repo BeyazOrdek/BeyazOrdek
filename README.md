@@ -9,7 +9,7 @@ I am a passionate developer focused on building functional applications and crea
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,lua,html,css,js,mysql,arduino,git,vscode,pr&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,lua,html,css,js,mysql,arduino,git,vscode,androidstudio,robloxstudio,sqlite,pr&theme=dark" />
   </a>
 </p>
 
