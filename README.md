@@ -7,11 +7,10 @@ I am a passionate developer focused on building functional applications and crea
 
 ### 💻 Technical Stack
 
-* **Desktop & Mobile:** * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **C# (WinForms)** - Developing management systems and utility tools.
-    * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java (Android Studio)** - Building mobile-based applications and UI logic.
-* **Game Development:**
-    * ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) **Lua & Rojo** - Scripting advanced game mechanics in Roblox Studio.
-    * ![Minecraft](https://img.shields.io/badge/Minecraft-62B449?style=for-the-badge&logo=minecraft&logoColor=white) **Plugin Development** - Creating custom server-side features using **Skript**.
+* **Desktop & Mobile:** * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+    * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+    * ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
+    * ![Minecraft](https://img.shields.io/badge/Minecraft-62B449?style=for-the-badge&logo=minecraft&logoColor=white) **Plugin Development** 
 
 ---
 
